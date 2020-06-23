@@ -12,8 +12,8 @@ package midterm;
  */
 public class RegistrationPlate {
 
-    public String plateNumber;
-    public String plateType;
+    private String plateNumber;
+    private String plateType;
     private String[] registrationTypes = {"Commercial", "Non-Commercial", "Personalized"};
 
     /**
