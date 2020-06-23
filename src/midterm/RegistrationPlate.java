@@ -77,3 +77,5 @@ public class RegistrationPlate {
         this.plateType = plateType;
     }
 }
+/**Jasneet Singh completed the task.
+ */
